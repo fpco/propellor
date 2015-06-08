@@ -127,7 +127,7 @@ Library
     Propellor.Types.Val
     Propellor.Types.Result
     Propellor.Types.CmdLine
-  Other-Modules:
+  Exposed-Modules:
     Propellor.Bootstrap
     Propellor.Git
     Propellor.Gpg
